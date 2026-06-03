@@ -1,0 +1,2 @@
+makelive>=0.2.0
+pyobjc>=10.0

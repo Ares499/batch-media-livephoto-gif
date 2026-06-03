@@ -1,0 +1,31 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local media batches
+input/*
+output/*
+!input/.gitkeep
+!output/.gitkeep
+
+# Generated files
+*.gif
+*.pvt/
+*.heic
+*.mov
+*.mp4
+*.m4v
+*.avi
+*.mkv
+*.webm
+*.3gp
+*.flv
+
+# Logs and secrets
+*.log
+.env
+.env.*
+*.secret
