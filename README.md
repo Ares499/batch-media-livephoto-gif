@@ -106,7 +106,3 @@ python3.11 batch_media_exporter.py ./input -o ./output -f pair --frame first
 - 自动化思路清晰：把“一个个手动转”的动作变成批量命令。
 - 技术组合务实：`ffmpeg` 负责 GIF 质量，macOS AVFoundation 负责 Live Photo 工作流。
 - 可扩展：后续可以加入批量压缩、尺寸模板、水印、封面帧选择和 GUI 界面。
-
-## 你可以怎么讲
-
-这个工具是我在做短视频和 AI 内容素材时整理出来的。实际运营里，经常需要把 AI 生成的视频、图片转成动图或实况素材，如果逐个用剪辑软件处理，几十个素材会非常耗时。我用 Python 把输入目录扫描、视频转 GIF、图片转 GIF、Live Photo 导出这些步骤串起来，让素材批量处理变成一次命令。这个项目体现的是我把一线业务问题工具化、自动化的能力。
