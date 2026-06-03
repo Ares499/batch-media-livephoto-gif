@@ -1,4 +1,4 @@
-# Batch Media to GIF / Live Photo Exporter
+# 批量媒体转动图与实况照片工具 / Batch Media to GIF & Live Photo Exporter
 
 A small automation tool for short-form content workflows. Put a batch of videos or images into `input/`, then export them as GIFs in one command. It can also convert short videos into iPhone Live Photo files.
 

@@ -1,4 +1,4 @@
-# 批量媒体转 GIF / Live Photo 工具
+# 批量媒体转动图与实况照片工具 / Batch Media to GIF & Live Photo Exporter
 
 一个面向短视频内容运营的小工具：把一批视频或图片放进 `input/`，一次性批量导出 GIF 动图；也可以把短视频批量转换成 iPhone Live Photo（实况照片）文件。
 
